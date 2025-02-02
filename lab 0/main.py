@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  9 17:24:18 2023
-
-@author: d001834
-"""
 import numpy as np
-import minim.minimization as mymin
+import minimal.minimization as mymin
 Np=5
 Nf=3
 A=np.random.randn(Np,Nf)
